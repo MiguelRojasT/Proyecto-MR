@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EscenaEntrenamiento_go.unity
+    guid: ca1842b2da153c14baca54296676f9ff
+  - enabled: 1
+    path: Assets/Scenes/EscenaTipo1_Go.unity
+    guid: b9bba6016ab90ca46bed4ab60a5fcf8d
+  m_configObjects: {}
